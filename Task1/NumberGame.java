@@ -21,7 +21,7 @@ public class NumberGame {
 
         int points=0;
         System.out.println("Please Guess The Number:");
-        for (int i = 0; i < 3; i++) 
+        for (int i = 0; i < 5; i++) 
         {
             // Instance of Random class
             Random rand = new Random();
